@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyListaDeTarefas</string>
+    <string name="item">Item</string>
+    <string name="todo">TODO</string>
+</resources>
